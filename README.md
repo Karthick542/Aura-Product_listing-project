@@ -1,16 +1,41 @@
-# React + Vite
+# 🛒 Aura — E-Commerce Product Listing App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A dynamic React.js product listing application with 
+real-time search and category filtering functionality.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 [View Live Project](https://your-vercel-link-here)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- 🔍 Real-time product search
+- 🗂️ Category-based filtering
+- 📦 Async data fetching with error handling
+- 📱 Responsive product grid layout
 
-## React Compiler
+## 🛠️ Tech Stack
+- React.js — Functional Components & Hooks
+- JavaScript ES6+
+- Fetch API
+- CSS3 & Bootstrap 5
+- Vercel (Deployment)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ React Concepts Used
+- useState — Search & filter state management
+- useEffect — Async data fetching
+- Conditional Rendering
+- Component Reusability
 
-## Expanding the Oxlint configuration
+## 📦 Installation & Setup
+```bash
+git clone https://github.com/Karthick542/Aura-Product_listing-project.git
+cd Aura-Product_listing-project
+npm install
+npm start
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🤖 Built With AI Assistance
+GitHub Copilot | ChatGPT | Claude AI
+
+## 👨‍💻 Developer
+**Karthick** — [Portfolio](https://portfolio-project-zeta-mocha-90.vercel.app) 
+| [LinkedIn](https://linkedin.com/in/karthickk07)
